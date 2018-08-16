@@ -1,3 +1,3 @@
-# helllo-world
-my first git repository
+# hello-world
+my Second git repository //
 I wanna be a data scientist!
